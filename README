@@ -4,3 +4,5 @@ This repository contains some scripts I wrote to make life easier for me.
 html2js: Simple C++ script to convert HTML to Javascript. I used it to make my own primitive HTML templating system.
 Usage: g++ html2js -o html2js
   ./html2js in.html out.js
+  
+getIEEEabstract: Gets the abstracts of all the IEEE pdfs in the current directory and then writes it to summary.html
