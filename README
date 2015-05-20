@@ -5,4 +5,6 @@ html2js: Simple C++ script to convert HTML to Javascript. I used it to make my o
 Usage: g++ html2js -o html2js
   ./html2js in.html out.js
   
-getIEEEabstract: Gets the abstracts of all the IEEE pdfs in the current directory and then writes it to summary.html
+getIEEEabstract.py: Gets the abstracts of all the IEEE pdfs in the current directory and then writes it to summary.html
+
+renameIEEE.py: Renames all the IEEE pdfs in the current directory to their paper titles.
